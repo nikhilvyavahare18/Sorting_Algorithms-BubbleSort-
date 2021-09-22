@@ -1,5 +1,6 @@
 /*
-prg 1:sort array element using bubble sort
+Program:sort array element using bubble sort
+Owner-Nikhil Balasaheb Vyavahare
 */
 #include<stdio.h>
 void main()
